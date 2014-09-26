@@ -1,4 +1,4 @@
-QueuCast-receiver
+QueueCast-receiver
 =================
 
 ![ScreenShot](/assets/QueueCastReceiver.png)

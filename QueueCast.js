@@ -1,4 +1,3 @@
-//grab express module------------[R7]
 var express = require("express"),
     app     = express(),
     port    = 9999;
